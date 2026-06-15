@@ -3,17 +3,19 @@
 > Application Android AR qui guide un technicien lors du montage d'un PC de bureau,  
 > étape par étape, avec vue 3D éclatée et codage couleur de la visserie.
 
----
+ 
 
 ## 📸 Aperçu
 
- 
- Vue AR en fonctionnement | Vue exploded-view |
- 
+| Vue des composantes PC en 3D |
+|:---:|
+| ![Modèle 3D PC](https://raw.githubusercontent.com/ghanam-fatima-ezzahra/ProjetAR8/main/mod%C3%A8le%20des%20composantes%20PC%20en%203D.PNG) |
 
 ## 🎬 Démo Vidéo
 
- 
+[![Démo ProjetAR8](https://img.shields.io/badge/▶_Voir_la_démo-FF0000?style=for-the-badge)](https://github.com/ghanam-fatima-ezzahra/ProjetAR8/blob/main/d%C3%A9mo.mp4)
+
+> Clique sur le bouton ci-dessus pour voir la démonstration complète de l'application AR. 
 
 ## ✅ Fonctionnalités implémentées
 
